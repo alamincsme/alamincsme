@@ -5,7 +5,7 @@ Skills: C/C++, Java, Object Oriented Programming, Functional Programming(Java), 
 - ➡️ I'm currently exploring advanced Java topics and diving deeper into software design patterns.
 - 👀 I’m interested in Java Enterprise Application
 - 🤔 I’m looking for help with Java Spring Framewrok.
-- 🌱 I’m currently learning JDBC, Functional Programming
+- 🌱 I’m currently learning Spring Boot 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/alamincsme/)
 
 <!---
